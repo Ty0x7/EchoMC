@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "echo",
+  "version": "${version}",
+  "name": "Echo — Minecraft Companion",
+  "description": "An original, server-authoritative companion with bounded AI planning and real gameplay actions.",
+  "authors": ["Echo contributors"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["dev.echo.EchoMod"], "client": ["dev.echo.client.EchoClient"] },
+  "mixins": ["echo.mixins.json"],
+  "depends": { "fabricloader": ">=0.16.14", "fabric-api": "*", "minecraft": "~1.21.1", "java": ">=21" }
+}

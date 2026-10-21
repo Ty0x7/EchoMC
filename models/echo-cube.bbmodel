@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "java_block",
+    "box_uv": false
+  },
+  "name": "Echo \u2014 white cube",
+  "resolution": {
+    "width": 16,
+    "height": 16
+  },
+  "elements": [
+    {
+      "name": "Echo cube",
+      "uuid": "23ef4236-37a0-5371-b988-9074bfbe6738",
+      "from": [
+        5.5,
+        5.5,
+        5.5
+      ],
+      "to": [
+        10.5,
+        10.5,
+        10.5
+      ],
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 1
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    }
+  ],
+  "outliner": [
+    "23ef4236-37a0-5371-b988-9074bfbe6738"
+  ],
+  "textures": [
+    {
+      "name": "cube_shell.png",
+      "id": "0",
+      "uuid": "519ac46a-e21d-5a67-8217-75298b4b465e",
+      "width": 64,
+      "height": 64,
+      "uv_width": 16,
+      "uv_height": 16,
+      "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAf0lEQVR4nOXOQREAIAzAsFL/arn9QcYejYKcmfsIkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJkziJczuw7QOMOwRZk6J3TgAAAABJRU5ErkJggg=="
+    },
+    {
+      "name": "cube_face.png",
+      "id": "1",
+      "uuid": "acc04265-ec11-56af-8b4a-2b02b607e252",
+      "width": 64,
+      "height": 64,
+      "uv_width": 16,
+      "uv_height": 16,
+      "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAw0lEQVR4nO3aMQoCMRgF4XHwBov3P6BsI/baiYgLu7KaYvyqpHm8hL9IkcP1erkRJnESJ3ESJ3ESJ3ESJ3ESJ3ESJ3ESJ3ESJ3ESJ3ESJ3ESJ3ESd/xW8DSdHut5Pg/LGDIB01Pxd/tfZQy5gGmh6JYD7JGxlsRJnMRJnMRJnMRJnHsHLj1Ztzxl98gYOgHzS9FPiu+Rscbh/0ssTuIkTuIkTuIkTuIkTuIkTuIkTuIkTuIkTuIkTuIkTuIkTuIcXWC0OzV5JjM8tmGEAAAAAElFTkSuQmCC"
+    }
+  ]
+}

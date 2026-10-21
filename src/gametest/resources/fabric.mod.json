@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"echo-tests","version":"1.0.0","name":"Echo integration tests","environment":"server","entrypoints":{"fabric-gametest":["dev.echo.test.EchoGameTests"]},"depends":{"echo":"*","fabric-gametest-api-v1":"*"}}

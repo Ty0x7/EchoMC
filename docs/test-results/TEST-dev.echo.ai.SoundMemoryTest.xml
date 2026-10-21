@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="dev.echo.ai.SoundMemoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-21T07:01:36" time="0.017">
+  <testcase name="repeatedNearbySoundsAreDeduplicated()" classname="dev.echo.ai.SoundMemoryTest" time="0.003" />
+  <testcase name="historyExpiresAndIsBounded()" classname="dev.echo.ai.SoundMemoryTest" time="0.002" />
+  <testcase name="sameTickStormIsCapped()" classname="dev.echo.ai.SoundMemoryTest" time="0.01" />
+  </testsuite>

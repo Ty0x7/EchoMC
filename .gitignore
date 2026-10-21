@@ -1,0 +1,17 @@
+.gradle/
+build/
+dist/
+run/
+config/
+*.log
+backend/.venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+*.gguf
+*.safetensors
+*.nemo
+*.ckpt
+*.pt
+*.pth

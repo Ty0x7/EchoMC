@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="dev.echo.ai.PlanTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-21T07:01:36" time="0.023">
+  <testcase name="cannotPromoteModelTextToServerCommands()" classname="dev.echo.ai.PlanTest" time="0.006" />
+  <testcase name="rejectsUnboundedAndInvalidPlans()" classname="dev.echo.ai.PlanTest" time="0.01" />
+  <testcase name="parsesOrderedMultiStepObjective()" classname="dev.echo.ai.PlanTest" time="0.002" />
+  <testcase name="conversationDoesNotNeedActions()" classname="dev.echo.ai.PlanTest" time="0.002" />
+  </testsuite>

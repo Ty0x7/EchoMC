@@ -1,0 +1,6 @@
+{
+  "sources": [
+    {"type": "minecraft:single", "resource": "echo:entity/cube_shell"},
+    {"type": "minecraft:single", "resource": "echo:entity/cube_face"}
+  ]
+}

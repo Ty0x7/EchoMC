@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="dev.echo.ai.SetupTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-21T07:01:36" time="0.152">
+  <testcase name="modelListRequiresExactConfiguredAliasAndNeverInfers()" classname="dev.echo.ai.SetupTest" time="0.047" />
+  <testcase name="copiedSettingsValidateWithoutChangingPublishedValues()" classname="dev.echo.ai.SetupTest" time="0.022" />
+  <testcase name="plannerProbeRejectsActionsAndDoesNotExecuteThem()" classname="dev.echo.ai.SetupTest" time="0.012" />
+  <testcase name="voiceHealthDistinguishesProcessFromLoadedWeightsWithoutInference()" classname="dev.echo.ai.SetupTest" time="0.019" />
+  <testcase name="derivedChecksKeepProxyPrefixAndDropQueryAndCredentials()" classname="dev.echo.ai.SetupTest" time="0.006" />
+  <testcase name="atomicSaveRetainsUnrelatedConfigurationFields()" classname="dev.echo.ai.SetupTest" time="0.023" />
+  <testcase name="malformedHealthCannotClaimReadiness()" classname="dev.echo.ai.SetupTest" time="0.017" />
+  </testsuite>

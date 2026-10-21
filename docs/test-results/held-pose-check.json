@@ -1,0 +1,26 @@
+[
+  {
+    "hand": "right",
+    "front_visible": true,
+    "bottom_visible": false,
+    "scale": 1.05,
+    "projection_bounds": [
+      0.28196483607090156,
+      1.0515476258713745,
+      -0.6135060315065592,
+      0.06282475833648063
+    ]
+  },
+  {
+    "hand": "left",
+    "front_visible": true,
+    "bottom_visible": false,
+    "scale": 1.05,
+    "projection_bounds": [
+      -1.0515476258713745,
+      -0.28196483607090156,
+      -0.6135060315065592,
+      0.06282475833648063
+    ]
+  }
+]
